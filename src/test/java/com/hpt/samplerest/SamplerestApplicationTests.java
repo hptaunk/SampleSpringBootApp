@@ -1,4 +1,4 @@
-package com.test.samplerest;
+package com.hpt.samplerest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
